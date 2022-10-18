@@ -1,1 +1,1 @@
-# ETHDenver_bootcamp Homeworks
+# ETHDenver Bootcamp Homeworks
