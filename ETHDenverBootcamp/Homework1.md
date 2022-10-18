@@ -18,7 +18,7 @@ This is just a general discussion, there is no need to write any code or do any 
     - Mortgage must be automatically issued. 
   - The Dice must be provably random
  **2. How would people cheat?**
-  - Cheat on their balance (how much they have)
-  - Cheat on their assets (what assets they hold)
+    - Cheat on their balance (how much they have)
+    - Cheat on their assets (what assets they hold)
  **3. How could you prevent them from cheating?**
- - A blockchain?
+    - A blockchain?
